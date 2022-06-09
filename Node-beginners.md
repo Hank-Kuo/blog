@@ -1,7 +1,7 @@
 # Introduction to Node JS for Beginners 
 **Node JS** is one of famous frontend and backend language runs on the V8 engine and executes JavaScript code outside a web browser. Node JS is very powerful and easily, it can help us to build simple server quickly, so in many company choose this language as their backend server.
 
-<figure style="text-align:center;">
+<figure align="center" style="text-align:center;">
   <img
   src="https://i.imgur.com/pBI9kZ5.png"
   width="400px" 
