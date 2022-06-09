@@ -1,13 +1,11 @@
 # Introduction to Node JS for Beginners 
 **Node JS** is one of famous frontend and backend language runs on the V8 engine and executes JavaScript code outside a web browser. Node JS is very powerful and easily, it can help us to build simple server quickly, so in many company choose this language as their backend server.
 
-<figure align="center" style="text-align:center;">
-  <img
-  src="https://i.imgur.com/pBI9kZ5.png"
-  width="400px" 
-  alt="The beautiful MDN logo.">
-    <p>Fig 1.</p>
-</figure>
+<p align="center">
+    <img src="https://i.imgur.com/pBI9kZ5.png" alt="Image1" width="400px" />
+    <p align="center">Fig 1.</p>
+</p>
+
 
 
 Node JS is **Event driven** that the developer can create scalable server without using threading by using callback to single the completion function. The event driven suit for single thread, so **Node JS is single thread language** that it uses callback function to achieve concurrency. 
